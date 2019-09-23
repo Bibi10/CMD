@@ -59,10 +59,12 @@ https://www.ayomaonline.com/security/essential-python-libraries-hackers-security
 
 Goals : 
 
+
 - Series
+![alt text](https://github.com/Bibi10/CMD/blob/master/22.png)
+![alt text](https://github.com/Bibi10/CMD/blob/master/21.png)
 - DataFrames
 - Reading a File 
 - Manipulations on a Pandas DataFrame
-
 
 

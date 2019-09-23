@@ -63,7 +63,9 @@ Goals :
 - Series
 ![alt text](https://github.com/Bibi10/CMD/blob/master/22.png)
 ![alt text](https://github.com/Bibi10/CMD/blob/master/21.png)
+![alt text](https://github.com/Bibi10/CMD/blob/master/23.png)
 - DataFrames
+![alt text](https://github.com/Bibi10/CMD/blob/master/24	.png)
 - Reading a File 
 - Manipulations on a Pandas DataFrame
 

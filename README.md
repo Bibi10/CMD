@@ -1,4 +1,4 @@
- General Introduction 
+#  General Introduction 
 
 [TtPoint](https://www.tutorialspoint.com/python/index.htm)
 
@@ -52,12 +52,17 @@ https://www.ayomaonline.com/security/essential-python-libraries-hackers-security
 ![alt text](https://github.com/Bibi10/CMD/blob/master/20.png)
 - Json
 ![alt text](https://github.com/Bibi10/CMD/blob/master/21.png)
-Data Analysis with Pandas 
+
+# Data Analysis  
+
+[Data Science might be the solution for attacks](https://www.securityroundtable.org/the-growing-role-of-machine-learning-in-cybersecurity/)
+
+Goals : 
+
 - Series
 - DataFrames
 - Reading a File 
 - Manipulations on a Pandas DataFrame
 
-Network Traffic Analysis 
 
 

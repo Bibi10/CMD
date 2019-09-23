@@ -48,7 +48,10 @@ https://www.ayomaonline.com/security/essential-python-libraries-hackers-security
 - [MathPlot](https://matplotlib.org/gallery/index.html)
 - [Fernet](https://cryptography.io/en/latest/fernet/)
 - [Pandas](https://pandas.pydata.org/pandas-docs/version/0.15/tutorials.html)
-
+- Classes
+![alt text](https://github.com/Bibi10/CMD/blob/master/20.png)
+- Json
+![alt text](https://github.com/Bibi10/CMD/blob/master/21.png)
 Data Analysis with Pandas 
 - Series
 - DataFrames

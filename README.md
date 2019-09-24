@@ -69,4 +69,10 @@ Goals :
 - Reading a File 
 - Manipulations on a Pandas DataFrame
 
+# [Penetration Testing](https://www.tutorialspoint.com/penetration_testing/types_of_penetration_testing.htm) 
+- What is penTest
+- Methods 
+- Tools 
+- Infrastructure 
 
+#

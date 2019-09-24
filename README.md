@@ -59,20 +59,26 @@ https://www.ayomaonline.com/security/essential-python-libraries-hackers-security
 
 Goals : 
 
-
 - Series
 ![alt text](https://github.com/Bibi10/CMD/blob/master/22.png)
 ![alt text](https://github.com/Bibi10/CMD/blob/master/21.png)
 ![alt text](https://github.com/Bibi10/CMD/blob/master/23.png)
 - DataFrames
-![alt text](https://github.com/Bibi10/CMD/blob/master/24	.png)
+![alt text](https://github.com/Bibi10/CMD/blob/master/24.png)
 - Reading a File 
 - Manipulations on a Pandas DataFrame
 
-# [Penetration Testing](https://www.tutorialspoint.com/penetration_testing/types_of_penetration_testing.htm) 
+## [Penetration Testing](https://www.tutorialspoint.com/penetration_testing/types_of_penetration_testing.htm) 
 - What is penTest
 - Methods 
 - Tools 
 - Infrastructure 
+- [PenTest with Python](https://github.com/mehransab101/Learning-Pentesting-With-Python/blob/master/Learning%20Penetration%20Testing%20with%20Python.pdf)
 
-#
+# TODO 
+
+## Parse [Paris-wifi.csv](https://github.com/Bibi10/CMD/blob/master/paris-wi-fi.csv) into Json (pandas) 
+
+## Network Traffic Analyzis 
+- Scan Network with Python
+- Send and Receive packets with python (nmap, scapy..)
